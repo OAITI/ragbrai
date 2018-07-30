@@ -3,8 +3,6 @@ library(shiny)
 library(shinythemes)
 library(shinycssloaders)
 library(tidyverse)
-library(rvest)
-#library(markovchain)
 library(maps)
 
 ## Set images resource path
