@@ -1,0 +1,46 @@
+#,Miles,Riders,Starting Town,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Ending Town
+I,412,130,Sioux City,Storm Lake,Fort Dodge,Ames,Des Moines,Williamsburg,Davenport,
+II,422,"2,000",Council Bluffs,Atlantic,Guthrie Center,Camp Dodge,Marshalltown,Waterloo,Monticello,Dubuque
+III,450,"3,000",Hawarden,Cherokee,Lake View,Boone,Newton,Sigourney,Mt. Pleasant,Fort Madison
+IV,430,"4,000",Sidney,Red Oak,Harlan,Jefferson,Nevada,Grinnell,Iowa City,Muscatine
+V,400,"6,000",Onawa,Ida Grove,Laurens,Algona,Clear Lake,New Hampton,Decorah,Lansing
+VI,440,"6,000",Sioux City,Storm Lake,Humboldt,Iowa Falls,Vinton,Mt. Vernon,Maquoketa,Clinton
+VII,480,"6,000",Rock Rapids,Spencer,Rockwell City,Story City,Tama,Fairfield,Wapello,Burlington
+VIII,468,"6,000",Glenwood,Atlantic,Carroll,Perry,Webster City,Waverly,Elkader,Guttenberg
+IX,490,"6,000",Missouri Valley,Mapleton,Lake City,Greenfield,Leon,Centerville,Keosauqua,Keokuk
+X,523,"6,000",Akron,Cherokee,Estherville,Forest City,Charles City,Independence,Tipton,Davenport
+XI,492,"6,000",Onawa,Harlan,Guthrie,Ames,Clarion,Grundy Center,Manchester,Dubuque
+XII,474,"8,000",Glenwood,Shenandoah,Creston,Adel,Pella,Ottumwa,Mt. Pleasant,Burlington
+XIII,540,"10,000",Hawarden,Sibley,Emmetsburg,Humboldt,Mason City,Waterloo,Monticello,Clinton
+XIV,479,"8,000",Council Bluffs,Red Oak,Audubon,Perry,Eldora,Belle Plaine,Washington,Muscatine
+XV,437,"8,000",Onawa,Denison,Storm Lake,Fort Dodge,Forest City,Osage,West Union,Guttenberg
+XVI,433,"8,000",Sioux City,Ida Grove,Carroll,Boone,Des Moines,Oskaloosa,Fairfield,Fort Madison
+XVII,479,"8,000",Glenwood,Clarinda,Atlantic,Jefferson,Story City,Cedar Falls,Dyersville,Bellevue
+XVIII,495,"8,000",Sioux Center,Spencer,Algona,Hampton,Oelwein,Cedar Rapids,Washington,Burlington
+XIX,432,"8,000",Missouri Valley,Atlantic,Winterset,Knoxville,Grinnell,Amana,Anamosa,Bellevue
+XX,494,"8,000",Glenwood,Shenandoah,Bedford,Osceola,Des Moines,Oskaloosa,Mt. Pleasant,Keokuk
+XXI,525,"8,000",Sioux City,Sheldon,Emmetsburg,Clarion,Osage,Decorah,Manchester,Dubuque
+XXII,511,"8,000",Council Bluffs,Harlan,Carroll,Perry,Marshalltown,Marion,Maquoketa,Clinton
+XXIII,493,"8,000",Onawa,Lake View,Fort Dodge,Iowa Falls,Tama/Toledo,Sigourney,Coralville,Muscatine
+XXIV,437,"8,000",Sioux Center,Sibley,Estherville,Lake Mills,Charles City,Cresco,Fayette,Guttenberg
+XXV,464,"10,000",Missouri Valley,Red Oak,Creston,Des Moines,Chariton,Bloomfield,Fairfield,Fort Madison
+XXVI,488,"10,000",Hawarden,Cherokee,Rockwell City,Boone,Eldora,Cedar Falls,Monticello,Sabula
+XXVII,487,"8,500",Rock Rapids,Spencer,Algona,Clear Lake,Waverly,Decorah,Manchester,Bellevue
+XXVIII,450,"10,000",Council Bluffs,Harlan,Greenfield,Ankeny,Knoxville,Ottumwa,Washington,Burlington
+XXIX,506,"10,000",Sioux City,Storm Lake,Denison,Atlantic,Perry,Grinnell,Coralville,Muscatine
+XXX,480,"10,000",Sioux Center,Cherokee,Emmetsburg,Forest City,Charles City,Oelwein,Anamosa,Bellevue
+XXXI,450,"10,000",Glenwood,Shenandoah,Bedford,Osceola,Oskaloosa,Bloomfield,Mt. Pleasant,Fort Madison
+XXXII,490,"10,000",Onawa,Lake View,Fort Dodge,Iowa Falls,Marshalltown,Hiawatha,Maquoketa,Clinton
+XXXIII,485,"10,000",Le Mars,Sheldon,Estherville,Algona,Northwood,Cresco,West Union,Guttenberg
+XXXIV,444,"10,000",Sergeant Bluff,Ida Grove,Audubon,Waukee,Newton,Marengo,Coralville,Muscatine
+XXXV,477,"10,000",Rock Rapids,Spencer,Humboldt,Hampton,Cedar Falls,Independence,Dyersville,Bellevue
+XXXVI,471,"10,000",Missouri Valley,Harlan,Jefferson,Ames,Tama/Toledo,North Liberty,Tipton,Le Claire
+XXXVII,422,"10,000",Council Bluffs,Red Oak,Greenfield,Indianola,Chariton,Ottumwa,Mt. Pleasant,Burlington
+XXXVIII,442,"10,000",Sioux City,Storm Lake,Algona,Clear Lake,Charles City,Waterloo,Manchester,Dubuque
+XXXIX,454,"10,000",Glenwood,Atlantic,Carroll,Boone,Altoona,Grinnell,Coralville,Davenport
+XL,471,"10,000",Sioux Center,Cherokee,Lake View,Webster City,Marshalltown,Cedar Rapids,Anamosa,Clinton
+XLI,407,"10,000",Council Bluffs,Harlan,Perry,Des Moines,Knoxville,Oskaloosa,Fairfield,Fort Madison
+XLII,428,"10,000",Rock Valley,Okoboji,Emmetsburg,Forest City,Mason City,Waverly,Independence,Guttenberg
+XLIII,462,"10,000",Sioux City,Storm Lake,Fort Dodge,Eldora,Cedar Falls,Hiawatha,Coralville,Davenport
+XLIV,420,"10,000",Glenwood,Shenandoah,Creston,Leon,Centerville,Ottumwa,Washington,Muscatine
+XLV,411,"10,000",Orange City,Spencer,Algona,Clear Lake,Charles City,Cresco,Waukon,Lansing
